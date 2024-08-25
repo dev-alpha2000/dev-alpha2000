@@ -46,8 +46,9 @@
 🔍 Regular practice on problem-solving platforms.
 
 ###  📈 Problem Solving Profiles
- LeetCode: https://leetcode.com/u/Abhi_alpha/
- GeeksforGeeks: https://www.geeksforgeeks.org/user/abhishekrai18022001/
+ 1- LeetCode: https://leetcode.com/u/Abhi_alpha/
+ 
+ 2- GeeksforGeeks: https://www.geeksforgeeks.org/user/abhishekrai18022001/
   
 
 ### 📫 Connect with Me
