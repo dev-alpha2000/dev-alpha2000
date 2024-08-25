@@ -26,7 +26,7 @@
   - 🧩 **Babel**
   - 🧹 **ESLint**
   - 🎨 **Prettier**
-  - 
+  
 - **Deployment**:
   - ▲ **Vercel**
   - 🌍 **Netlify**
