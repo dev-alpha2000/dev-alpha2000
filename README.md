@@ -35,6 +35,7 @@
 2-React.js, React Hooks (useState, useEffect), React Router, React Icons, React Toastify
 3-Cart management, Price and name filters
 4-Used React Hooks for state, Implemented React Router for navigation, Integrated React Icons & Toastify for UI]. [https://github.com/dev-alpha2000/eccomerce-website](#)
+ 
  **[Pexel's webapp]**: 💡 [1-Developed Pexel clone with React.js, React Router DOM, and Pexel API, employing React Hooks (useState, useEffect) for state management.
 2-Integrated React Toastify for user-friendly notifications alongside search and image preview/download functionalities.
 3-Ensured responsive design and optimized performance across devices using React Hooks.
@@ -45,8 +46,8 @@
 🔍 Regular practice on problem-solving platforms.
 
 ###  📈 Problem Solving Profiles
-## LeetCode: https://leetcode.com/u/Abhi_alpha/
-## GeeksforGeeks: https://www.geeksforgeeks.org/user/abhishekrai18022001/
+ LeetCode: https://leetcode.com/u/Abhi_alpha/
+ GeeksforGeeks: https://www.geeksforgeeks.org/user/abhishekrai18022001/
   
 
 ### 📫 Connect with Me
