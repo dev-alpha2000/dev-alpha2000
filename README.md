@@ -43,6 +43,7 @@
 
 ## 🧠 Data Structures & Algorithms
 💡 Strong understanding of Data Structures and Algorithms.
+
 🔍 Regular practice on problem-solving platforms.
 
 ###  📈 Problem Solving Profiles
