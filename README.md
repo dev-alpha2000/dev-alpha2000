@@ -11,6 +11,8 @@
   - 📝 **HTML**
   - 🎨 **CSS** 
   - 💻 **JavaScript**
+  - 🔄 **C++**
+  - 🗄️ **SQL**
 
 - **Frameworks & Libraries**:
   - ⚛️ **React**
@@ -47,9 +49,9 @@
 🔍 Regular practice on problem-solving platforms.
 
 ###  📈 Problem Solving Profiles
- 1- LeetCode: https://leetcode.com/u/Abhi_alpha/
+ - **LeetCode** : https://leetcode.com/u/Abhi_alpha/
  
- 2- GeeksforGeeks: https://www.geeksforgeeks.org/user/abhishekrai18022001/
+ - **GeeksforGeeks** : https://www.geeksforgeeks.org/user/abhishekrai18022001/
   
 
 ### 📫 Connect with Me
